@@ -15,8 +15,6 @@ Big Data has also stirred my interest with an intense passion for continuous lea
 
 ---
 
-## 🛠️ Skills & Tools  
-
 ## 🛠️ Tools & Technologies  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
