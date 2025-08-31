@@ -17,18 +17,14 @@ Big Data has also stirred my interest with an intense passion for continuous lea
 
 ## 🛠️ Skills & Tools  
 
-- **Programming & Data Science**  
-  - Python (NumPy, Pandas, Matplotlib, Scikit-learn)  
-  - R (Basic Data Analysis & Visualization)  
-  - SQL  
-- **Business & Data Analytics**  
-  - Data Cleaning & Exploratory Data Analysis (EDA)  
-  - Data Visualization (Tableau, Matplotlib)  
-  - Business Intelligence (Google BI, Google Data Studio)  
-- **Other Skills**  
-  - Teaching & Education Technology  
-  - IoT Robotics (basic)  
-  - Social Media Strategy  
+## 🛠️ Tools & Technologies  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
@@ -42,21 +38,6 @@ Big Data has also stirred my interest with an intense passion for continuous lea
 
 ---
 
-## 📊 Projects  
-
-🔹 [Exploratory Data Analysis: Student Performance](projects/project1.md)  
-🔹 [Data Visualization: COVID-19 Trends](projects/project2.md)  
-🔹 [Business Intelligence Dashboard](projects/project3.md)  
-
----
-
-## 📈 GitHub Stats  
-
-![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhrizd30&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhrizd30&layout=compact&theme=tokyonight)  
-
----
 
 ## 📫 Connect with Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/muhrizd30/)  
