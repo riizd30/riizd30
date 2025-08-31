@@ -10,14 +10,12 @@
 Hi, I’m **Muhammad Rizky** — a Physics Education graduate who is transitioning into the world of **Data Science and IT**.  
 My journey started from teaching and technology, and has now expanded into exploring the power of **data analytics, business intelligence, and data visualization** to solve real-world problems.  
 
----
 
 ### 🔹 Currently Learning & Practicing  
 - **Data Analysis** → Python (Pandas, NumPy, Matplotlib), SQL, Google Sheets  
 - **Business Intelligence** → Google BI, Power BI, Tableau, Looker Studio  
 - **Data Science** → Exploratory Data Analysis (EDA), Machine Learning basics, Data Visualization  
 
----
 
 💡 With a background in **education and communication**, I combine analytical thinking with creativity to deliver insights that are both impactful and easy to understand.   
 
